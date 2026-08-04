@@ -1,0 +1,3 @@
+Fitur - fitur baru dalam bookstore
+- CRUD data buku oleh admin
+- CRUD kategori buku pada admin
